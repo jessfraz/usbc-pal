@@ -413,7 +413,7 @@ L Jumper:SolderJumper_2_Open JP1
 U 1 1 5F85F06A
 P 6600 1100
 F 0 "JP1" V 6554 1168 50  0000 L CNN
-F 1 "SolderJumper_2_Open" V 6645 1168 50  0000 L CNN
+F 1 "JUMPER" V 6645 1168 50  0000 L CNN
 F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 6600 1100 50  0001 C CNN
 F 3 "~" H 6600 1100 50  0001 C CNN
 	1    6600 1100
@@ -708,7 +708,7 @@ L Switch:SW_MEC_5G SW1
 U 1 1 5F8E659B
 P 7450 2650
 F 0 "SW1" V 7496 2602 50  0000 R CNN
-F 1 "SW_MEC_5G" V 7405 2602 50  0000 R CNN
+F 1 "SWITCH" V 7405 2602 50  0000 R CNN
 F 2 "Button_Switch_SMD:SW_SPST_PTS810" H 7450 2850 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" H 7450 2850 50  0001 C CNN
 	1    7450 2650
@@ -1131,7 +1131,7 @@ U 1 1 5FA071F5
 P 4950 6300
 F 0 "Q2" H 5156 6346 50  0000 L CNN
 F 1 "DMP3017SFG" H 5156 6255 50  0000 L CNN
-F 2 "Housings_SON:Diodes_PowerDI3333-8" H 5150 6400 50  0001 C CNN
+F 2 "housings_son:Diodes_PowerDI3333-8" H 5150 6400 50  0001 C CNN
 F 3 "https://www.diodes.com/assets/Datasheets/DMP3017SFG.pdf" H 5150 6350 50  0001 C CNN
 	1    4950 6300
 	1    0    0    -1  
