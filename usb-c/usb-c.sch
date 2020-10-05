@@ -414,7 +414,7 @@ U 1 1 5F85F06A
 P 6600 1100
 F 0 "JP1" V 6554 1168 50  0000 L CNN
 F 1 "JUMPER" V 6645 1168 50  0000 L CNN
-F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 6600 1100 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 6600 1100 50  0001 C CNN
 F 3 "~" H 6600 1100 50  0001 C CNN
 	1    6600 1100
 	0    1    1    0   
