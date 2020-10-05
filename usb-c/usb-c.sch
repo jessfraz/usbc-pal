@@ -704,7 +704,7 @@ F 3 "~" H 7450 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_MEC_5G SW1
+L Switch:SW_Push SW1
 U 1 1 5F8E659B
 P 7450 2650
 F 0 "SW1" V 7496 2602 50  0000 R CNN
