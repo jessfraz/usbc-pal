@@ -1126,7 +1126,7 @@ Connection ~ 5050 7200
 Wire Wire Line
 	5050 7200 5050 7500
 $Comp
-L pd-buddy:DMP3017SFG Q2
+L usb-c-rescue:DMP3017SFG-pd-buddy Q2
 U 1 1 5FA071F5
 P 4950 6300
 F 0 "Q2" H 5156 6346 50  0000 L CNN
