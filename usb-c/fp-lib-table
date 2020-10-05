@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name pd-buddy-sink)(type KiCad)(uri /Users/jess/pd-buddy-sink)(options "")(descr ""))
   (lib (name housings_son)(type KiCad)(uri ${KIPRJMOD}/lib/housings_son.pretty)(options "")(descr ""))
 )

@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name pd-buddy)(type Legacy)(uri /Users/jess/pd-buddy-sink/pd-buddy.lib)(options "")(descr ""))
   (lib (name usb-c-rescue)(type Legacy)(uri ${KIPRJMOD}/usb-c-rescue.lib)(options "")(descr ""))
 )
